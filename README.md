@@ -1,4 +1,4 @@
-### Hello!, My name is Ruan.
+### Hello, My name is Ruan.
 
 <picture>
   <source
