@@ -1,14 +1,56 @@
-<h1>Hi There! 👋</h1>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Ruanzerah.Ruanzerah" alt="visitor badge" />
 
-## My name is Ruan.
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ruan!;" />
+</h1>
 
-<div>
- <a href="ruanlima2023@outlook.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- <a href="https://instagram.com/ruanlima_sz?igshid=MzNlNGNkZWQ4Mg==" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<h3 align="center">A software developer from Brazil </h3>
+
+<br/>
+
+<div align="center">
+ 
+ 🌱 I’m currently learning **Rust**
+
+ </div>
+ 
+<div align="center"> 
+  <a href="mailto:ruanlima2023@outlook.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
 </div>
 
-<div>
-  <img height="100em" src="https://github-readme-stats.vercel.app/api?username=Ruanzerah&show_icons=true&theme=dark"/>
-  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruanzerah&layout=compact&theme=dark"/>
+<hr/>
+ 
+<h2 align="center">⚒️ Languages-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=rust,java,lua,docker" /><br>
 </div>
+
+<br/>
+<hr/>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Ruanzerah/Ruanzerah/output/github-contribution-grid-snake.svg"/>
+  
+  <br/><br/><br/>
+</div>
+
+<hr/>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-Ruanzerah.vercel.app/?user=Ruanzerah&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-Ruanzerah.vercel.app/api?username=Ruanzerah&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-Ruanzerah.vercel.app/api/top-langs/?username=Ruanzerah&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+
+<br/><br/>
+
+<hr/>
 
