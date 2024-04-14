@@ -25,7 +25,7 @@
 <h2 align="center">⚒️ Languages-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=rust,java,lua,docker" /><br>
+    <img src="https://skillicons.dev/icons?i=rust,java,go,lua,docker" /><br>
 </div>
 
 <br/>
