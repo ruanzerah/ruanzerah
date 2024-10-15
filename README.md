@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Ruanzerah.Ruanzerah" alt="visitor badge" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ruanzerah.ruanzerah" alt="visitor badge" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ruan!;" />
@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🌱 I’m currently learning **Rust**
+ 🌱 I’m currently learning **Go**
 
  </div>
  
@@ -25,7 +25,7 @@
 <h2 align="center">⚒️ Languages-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=rust,java,go,lua,docker" /><br>
+    <img src="https://skillicons.dev/icons?i=go,lua,docker" /><br>
 </div>
 
 <br/>
@@ -35,8 +35,8 @@
 
 <div align="center">
     
-  [![GitHub Streak](https://streak-stats.demolab.com?user=Ruanzerah&theme=catppuccin-macchiato&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-  ![Ruanzerah's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ruanzerah&show_icons=true&bg_color=00000000)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=ruanzerah&theme=catppuccin-macchiato&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+  ![ruanzerah's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruanzerah&show_icons=true&bg_color=00000000)
   <br/>
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ruanzerah&layout=compact)
 </div>
