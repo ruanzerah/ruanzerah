@@ -25,7 +25,7 @@
 <h2 align="center">⚒️ Languages-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=go,lua,docker" /><br>
+    <img src="https://skillicons.dev/icons?i=go,docker" /><br>
 </div>
 
 <br/>
