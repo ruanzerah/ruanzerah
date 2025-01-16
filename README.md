@@ -14,11 +14,7 @@
 </div>
 
 <details><summary>Stats for nerds</summary>
-    <br/>    
-  <div align="center" align-items="center"> 
-      <img height="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruanzerah&layout=pie&theme=dracula&bg_color=000000&border_color=00000000&text_color=ffffff&hide_progress=true&border_radius=0" alt="Top Langs">
+<div align="center" align-items="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruanzerah&layout=compact" alt="Top Langs">
 </div>
 </details>
-
-<br/>
-
