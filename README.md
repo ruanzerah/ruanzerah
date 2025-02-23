@@ -10,7 +10,7 @@
     
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=java" /><br>
+    <img src="https://skillicons.dev/icons?i=java,go" /><br>
 </div>
 
 <details><summary>Stats for nerds</summary>
