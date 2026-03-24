@@ -5,16 +5,8 @@
 </h1>
 
 <div align="center">
-<code>coding and coffee ☕</code>
+<h2>learning skills</h2>
 </div>
-    
-<br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=rust" /><br>
+    <img src="https://skillicons.dev/icons?i=go,python,git,postgresql" /><br>
 </div>
-
-<details><summary>Stats for nerds</summary>
-<div align="center" align-items="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruanzerah&layout=compact" alt="Top Langs">
-</div>
-</details>
