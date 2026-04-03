@@ -5,7 +5,7 @@
 </h1>
 
 <div align="center">
-<h2>learning skills</h2>
+<h2>currently learning these skills</h2>
 </div>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=go,python,git,postgresql" /><br>
